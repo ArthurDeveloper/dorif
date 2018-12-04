@@ -1,0 +1,1 @@
+java -jar .\target\ServidorTXT-1.0-SNAPSHOT.jar ServidorTXT0 localhost 23333 localhost 23333 10
